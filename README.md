@@ -1,1 +1,1 @@
-# course_work_ml
+# face-recognition
